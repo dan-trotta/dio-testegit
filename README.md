@@ -6,3 +6,4 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de versionamento
 ## 🎫 Documentação
 - [Documentação do Git](https://git-scm.com/doc)
 - [Documentação do GitHub](https://docs.github.com)
+- [Vasco Copa do Brasil](https://netvascocom.br)
